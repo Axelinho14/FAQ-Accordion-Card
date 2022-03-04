@@ -28,7 +28,7 @@ body{
     min-height: 100vh;
 }
 .container{
-    background-color: white;
+    background-color: #fff;
     height: 16cm;
     width: 30cm;
     border-radius: 1cm;
@@ -95,7 +95,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: white;
+    background-color: #fff;
     border: none;
     color: var(--sc-text-dark-grayish-blue);
     font-size: 0.45cm;
@@ -109,7 +109,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
+    background-color: #fff;
     border: none;
     color: var(--sc-text-dark-grayish-blue);
     font-size: 0.45cm;
