@@ -28,7 +28,7 @@ body{
     min-height: 100vh;
 }
 .container{
-    background-color: var(--divider-Light-grayish-blue);
+    background-color: white;
     height: 16cm;
     width: 30cm;
     border-radius: 1cm;
@@ -95,7 +95,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: var(--divider-Light-grayish-blue);
+    background-color: white;
     border: none;
     color: var(--sc-text-dark-grayish-blue);
     font-size: 0.45cm;
@@ -103,13 +103,13 @@ body{
     line-height: 1.5cm;
     width: 100%;
     cursor: pointer;
-    border-bottom: solid 1px hsla(240, 6%, 50%, 0.185);
+    border-bottom: solid 1px var(--divider-Light-grayish-blue);
 }
 .li-text-button2{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--divider-Light-grayish-blue);
+    background-color: white;
     border: none;
     color: var(--sc-text-dark-grayish-blue);
     font-size: 0.45cm;
